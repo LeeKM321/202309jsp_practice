@@ -22,7 +22,7 @@
 		</c:otherwise>
 	</c:choose>
 	
-	<a href="cookie_login.jsp">로그인 화면으로</a>
+	<a href="cookie_logi.jsp">로그인 화면으로</a>
 
 </body>
 </html>
